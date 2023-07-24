@@ -1,0 +1,17 @@
+body {
+    font-family: Tahoma;
+}
+
+#logo{
+    width: 200px;
+}
+#hello{
+    font-size: 32pt;
+}
+#sub{
+    font-size: 24pt;
+}
+
+.gxtml{
+    color:#e90c0c;
+}
