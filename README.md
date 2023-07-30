@@ -3,7 +3,6 @@
 HTML DOM-Based Lightweight Game Library, it's not using `<canvas></canvas>` <br>
 but actually it's just manipulate DOM-Object `<div>` with CSS `transformation`
 
-[![](https://komarev.com/ghpvc/?username=equneko&label=Views%20Count&color=fc1303&style=flat)]()
 [![](https://img.shields.io/badge/Experimental%20Project-black)]()
 [![](https://img.shields.io/badge/HTML-orange)]()
 [![](https://img.shields.io/badge/DOM-blue)]()
